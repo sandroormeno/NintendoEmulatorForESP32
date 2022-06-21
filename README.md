@@ -1,3 +1,4 @@
 # NintendoEmulatorForESP32
 Esto es todo lo que necesitas:
-![imagen](example.jpg)
+<img src="example.jpg" title="" alt="imagen" data-align="center">
+![imagen](/example.jpg)
