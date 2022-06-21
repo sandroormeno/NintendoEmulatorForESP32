@@ -1,2 +1,3 @@
-# sandroormeno-NintendoEmulatorForESP32
-Esto es todo lo que necesitas
+# NintendoEmulatorForESP32
+Esto es todo lo que necesitas:
+![imagen](example.jpg)
